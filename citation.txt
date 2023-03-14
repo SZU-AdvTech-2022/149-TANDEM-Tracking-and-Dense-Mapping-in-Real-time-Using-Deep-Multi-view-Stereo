@@ -1,0 +1,8 @@
+@inproceedings{REPO-150,
+    author = "Koestler, Lukas and Yang, Nan and Zeller, Niclas and Cremers, Daniel",
+    booktitle = "Conference on Robot Learning",
+    organization = "PMLR",
+    pages = "34--45",
+    title = "{TANDEM: Tracking and Dense Mapping in Real-time Using Deep Multi-view Stereo}",
+    year = "2022"
+}
